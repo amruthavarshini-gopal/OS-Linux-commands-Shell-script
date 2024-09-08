@@ -1095,4 +1095,4 @@ fi
 ![alt text](../81.png)
 ![alt text](../82.png)
 # RESULT:
-The Commands are executed successfully
+The Commands are executed successfully.
